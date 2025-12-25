@@ -4,6 +4,10 @@
 ✅ **Language:** T-SQL  
 ✅ **Focus:** Menu performance + Customer behavior
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Customer%20Behavior%20%26%20Menu%20Performance-orange)
+
 ---
 
 ## 🌍 Business Context
