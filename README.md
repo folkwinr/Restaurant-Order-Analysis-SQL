@@ -1,9 +1,5 @@
 # 🍽️ Restaurant Order Analysis (SQL Server / T-SQL)
 
-✅ **Tool:** SQL Server (SSMS)  
-✅ **Language:** T-SQL  
-✅ **Focus:** Menu performance + Customer behavior
-
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-blue)
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
