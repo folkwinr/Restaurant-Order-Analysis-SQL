@@ -47,31 +47,39 @@ As a data analyst, the goal is to use restaurant order data to understand:
 
 ## 🗂️ Repo Structure
 
-Restaurant-Order-Analysis-SQL/
+```text
+taste-of-the-world-cafe-sql-analysis/
 │
-├── README.md
+├── data/
+│   ├── menu_items.csv
+│   ├── order_details.csv
+│   └── restaurant_db_data_dictionary.csv
+│
+├── data_dictionary/
+│   └── restaurant_db_data_dictionary.csv
+│
+├── dataset_overview/
+│   └── dataset_overview.md
+│
+├── executive_summary/
+│   └── executive.md
+│
+├── insights/
+│   └── insights.md
+│
+├── methodology/
+│   └── methodology.md
+│
+├── requirements/
+│   └── requirements.md
 │
 ├── sql/
 │   ├── 01_menu_exploration.sql
 │   ├── 02_order_exploration.sql
 │   └── 03_customer_behavior.sql
 │
-├── data/
-│   ├── raw/
-│   │   ├── menu_items.csv
-│   │   └── order_details.csv
-│   └── processed/
-│       └── joined_orders_menu.csv
-│
-├── docs/
-│   ├── project_brief.md
-│   ├── data_dictionary.md
-│   └── interview_notes.md
-│
-└── insights/
-    ├── menu_insights.md
-    ├── order_insights.md
-    └── customer_behavior_insights.md
+└── README.md
+
 
 ✅ If you only want the core solution, focus on the `sql/` folder.
 
