@@ -47,7 +47,7 @@ As a data analyst, the goal is to use restaurant order data to understand:
 
 ## 🗂️ Repo Structure
 
-
+```
 taste-of-the-world-cafe-sql-analysis/
 │
 ├── data/
@@ -79,6 +79,8 @@ taste-of-the-world-cafe-sql-analysis/
 │   └── 03_customer_behavior.sql
 │
 └── README.md
+
+```
 
 ##
 
