@@ -181,22 +181,6 @@ You can summarize results like this:
   - improve/reprice weak items
   - protect premium items for high-value customers
 
-(You can write your final conclusions in `insights/`.)
-
----
-
-## 🎤 Interview Questions This Project Prepares You For
-
-- Why does `order_id` repeat in `order_details`?
-- Difference between `WHERE` and `HAVING`?
-- Why use `COUNT(DISTINCT order_id)` for order count?
-- Why use a LEFT JOIN for transaction + lookup tables?
-- How do you find top spenders / high-value orders?
-
-(See `docs/interview_notes.md`.)
-
----
-
 ## ✅ Notes
 
 - This repo is written for **SQL Server (SSMS / T-SQL)**.
