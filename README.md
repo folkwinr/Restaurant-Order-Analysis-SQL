@@ -170,17 +170,6 @@ Join used in analysis:
 
 ---
 
-## 📈 Insights Template (Fill with your final numbers)
-
-You can summarize results like this:
-- ⭐ Best-selling items: (list top items)
-- ⚠️ Low-performing items: (list bottom items)
-- 💰 High-spend orders: tend to buy (categories/items)
-- 🧠 Recommendation:
-  - keep & promote winners
-  - improve/reprice weak items
-  - protect premium items for high-value customers
-
 ## ✅ Notes
 
 - This repo is written for **SQL Server (SSMS / T-SQL)**.
